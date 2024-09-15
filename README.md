@@ -20,4 +20,4 @@ https://www.geeksforgeeks.org/java-ternary-operator-with-examples/; taught me ho
 
 
 
-https://github.com/yusufbon/REPO
+https://github.com/yusufbon/Mini-Project-1
